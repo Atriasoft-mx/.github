@@ -76,7 +76,7 @@ Hemos colaborado activamente en el diseño, desarrollo e implementación de solu
 | :--- | :--- | :--- |
 | **Toyota Pachuca** | Automotriz | Plataformas de atención, control de taller y encuestas CSAT. |
 | **Subaru Pachuca** | Automotriz | Gestión digital, trazabilidad de clientes y seguimiento de leads. |
-| **Carsline** | Automotriz / Seminuevos | Sistemas operativos internos, inventario y despliegue en servidores. |
+| **Carsline Pachuca** | Automotriz / Seminuevos | Sistemas operativos internos, inventario y despliegue en servidores. |
 | **San Rafael Dental (CDMX)** | Sector Salud | Software de gestión clínica, control de expedientes y servicios web/desktop. |
 
 ---
