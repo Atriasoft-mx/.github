@@ -2,7 +2,6 @@
 
   <img width="180" alt="LogoReadme" src="https://github.com/user-attachments/assets/5530fce5-e932-45af-a975-b8d0d77b23b6" />
 
-  # Atria.Software
   ### Consultoría Tecnológica & Desarrollo de Software de Alto Impacto
   
   **Diseñamos y escalamos soluciones digitales empresariales, plataformas transaccionales y aplicaciones móviles nativas.**
