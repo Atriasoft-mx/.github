@@ -101,3 +101,47 @@ graph LR
         I[Docker & Cloud Deployment]
     end
     Frontend & Mobile --> Backend & APIs --> Datos & Cloud
+
+---
+
+## 📬 Contacto y Colaboración
+
+¿Tienes un proyecto en desarrollo, requieres consultoría especializada o buscas modernizar la infraestructura tecnológica de tu empresa? Contáctanos de forma directa:
+
+<div align="center">
+
+  <a href="https://wa.me/527710000000?text=Hola%20Atria.Software,%20me%20gustar%C3%ADa%20cotizar%20un%20proyecto" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="tel:+527710000000">
+    <img src="https://img.shields.io/badge/Teléfono-%2B52%20771%20000%200000-0F2537?style=for-the-badge&logo=googlechrome&logoColor=C7A96A" alt="Teléfono" />
+  </a>
+  &nbsp;
+  <a href="mailto:contacto@atria.tech">
+    <img src="https://img.shields.io/badge/Email-contacto@atria.tech-C7A96A?style=for-the-badge&logo=gmail&logoColor=0F2537" alt="Correo Electrónico" />
+  </a>
+  &nbsp;
+  <a href="https://itarensoftware.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-atria--tech.com-0F2537?style=for-the-badge&logo=render&logoColor=white" alt="Sitio Web" />
+  </a>
+
+</div>
+
+<br />
+
+| Canal | Detalle | Enlace Directo |
+| :--- | :--- | :--- |
+| 💬 **WhatsApp Directo** | Atención comercial y propuestas técnicas inmediatas | [Iniciar chat en WhatsApp](https://wa.me/527710000000?text=Hola%20Atria.Software,%20me%20gustar%C3%ADa%20cotizar%20un%20proyecto) |
+| 📞 **Llamada / Oficina** | Línea de atención empresarial | [+52 771 000 0000](tel:+527710000000) |
+| ✉️ **Correo Corporativo** | Envío de RFPs, especificaciones y contratos | [contacto@atria.tech](mailto:contacto@atria.tech) |
+| 🌐 **Portal y Cotizador** | Showroom interactivo y cotizador en vivo | [atria-tech.onrender.com](https://itarensoftware.onrender.com/) |
+| 📍 **Ubicaciones** | **CDMX**: Insurgentes Sur / Reforma &bull; **Hidalgo**: Pachuca | Reuniones presenciales o remotas |
+
+---
+
+<div align="center">
+
+  <sub>&copy; 2026 **Atria.Software** &bull; Consultoría y Desarrollo Tecnológico Integral.</sub>
+
+</div>
