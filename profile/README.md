@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="180" alt="Logo Atria Software" src="https://github.com/user-attachments/assets/3904fbe0-791c-4406-b0b4-31c57ab36c83" />
+  <img width="180" alt="Logo Atria Software" src="[https://github.com/user-attachments/assets/3904fbe0-791c-4406-b0b4-31c57ab36c83](https://github.com/user-attachments/assets/3904fbe0-791c-4406-b0b4-31c57ab36c83)" />
 
   # Atria.Software
   ### Consultoría Tecnológica & Desarrollo de Software de Alto Impacto
@@ -9,27 +9,27 @@
 
   📍 **Ciudad de México** &bull; **Pachuca, Hidalgo**
 
-<p align="center">
+  <p align="center">
     <!-- Backend, Móvil & Lenguajes Core -->
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+    <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" alt="Java" />
+    <img src="[https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)" alt="Spring Boot" />
+    <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" />
+    <img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)" alt="FastAPI" />
+    <img src="[https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)" alt="Django" />
+    <img src="[https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)" alt="Laravel" />
+    <img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)" alt="Flutter" />
+    <img src="[https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)" alt="Dart" />
+    <img src="[https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)" alt="Swift" />
     <br />
     <!-- Frontend, Datos & Cloud -->
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="[https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" alt="Angular" />
+    <img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" alt="React" />
+    <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" alt="JavaScript" />
+    <img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)" alt="TypeScript" />
+    <img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)" alt="Pandas" />
+    <img src="[https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)" alt="PostgreSQL" />
+    <img src="[https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)" alt="Oracle DB" />
+    <img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)" alt="Docker" />
   </p>
 
 </div>
@@ -52,7 +52,7 @@ Combinamos metodologías ágiles, arquitectura limpia y las mejores prácticas d
 * **Integración de hardware y sensores**: Escaneo de códigos por cámara (OCR / Barcode), geolocalización, captura de firmas digitales e impresión térmica.
 
 ### 🌐 Aplicaciones Web & Plataformas Empresariales
-* **Backends Críticos**: Microservicios robustos y APIs RESTful construidas con **Java**, **Spring Boot** y **Laravel**.
+* **Backends Críticos**: Microservicios robustos y APIs RESTful construidas con **Java**, **Spring Boot**, **Python (FastAPI/Django)** y **Laravel**.
 * **Frontends Modernos**: Interfaces dinámicas, accesibles y modulares con **Angular**, **React** y **JavaScript (ES6+) / TypeScript**.
 * **CRMs, POS y ERPs a la medida**: Control de inventarios multi-sucursal, gestión de clientes, emisión de pólizas/dictámenes y conciliación de caja.
 
@@ -62,86 +62,4 @@ Combinamos metodologías ágiles, arquitectura limpia y las mejores prácticas d
 * Tuning de consultas SQL y diseño de índices para entornos de alta concurrencia.
 
 ### 💼 Consultoría Digital & Estrategia IT
-* Auditoría de arquitectura técnica, revisión de código y buenas prácticas.
-* Automatización de reportes, conciliaciones e integraciones con pasarelas de pago y webhooks.
-* Implementación de contenedores con **Docker** y despliegues optimizados en nube.
-
----
-
-## 🤝 Clientes y Casos de Éxito
-
-Hemos colaborado activamente en el diseño, desarrollo e implementación de soluciones digitales para marcas y empresas clave:
-
-| Cliente | Sector | Soluciones Implementadas |
-| :--- | :--- | :--- |
-| **Toyota Pachuca** | Automotriz | Plataformas de atención, control de taller y encuestas CSAT. |
-| **Subaru Pachuca** | Automotriz | Gestión digital, trazabilidad de clientes y seguimiento de leads. |
-| **Carsline Pachuca** | Automotriz / Seminuevos | Sistemas operativos internos, inventario y despliegue en servidores. |
-| **San Rafael Dental (CDMX)** | Sector Salud | Software de gestión clínica, control de expedientes y servicios web/desktop. |
-
----
-
-## 💻 Stack Tecnológico
-
-```mermaid
-graph LR
-    subgraph Frontend & Mobile
-        A[Angular] 
-        B[React] 
-        C[Flutter / Dart] 
-        D[Swift]
-    end
-    subgraph Backend & APIs
-        E[Java / Spring Boot] 
-        F[Laravel / PHP] 
-        G[JavaScript / Node]
-    end
-    subgraph Datos & Cloud
-        H[(PostgreSQL / Oracle / MySQL)]
-        I[Docker & Cloud Deployment]
-    end
-    Frontend & Mobile --> Backend & APIs --> Datos & Cloud
-
----
-
-## 📬 Contacto y Colaboración
-
-¿Tienes un proyecto en desarrollo, requieres consultoría especializada o buscas modernizar la infraestructura tecnológica de tu empresa? Contáctanos de forma directa:
-
-<div align="center">
-
-  <a href="https://wa.me/527710000000?text=Hola%20Atria.Software,%20me%20gustar%C3%ADa%20cotizar%20un%20proyecto" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  &nbsp;
-  <a href="tel:+527710000000">
-    <img src="https://img.shields.io/badge/Teléfono-%2B52%20771%20000%200000-0F2537?style=for-the-badge&logo=googlechrome&logoColor=C7A96A" alt="Teléfono" />
-  </a>
-  &nbsp;
-  <a href="mailto:contacto@atria.tech">
-    <img src="https://img.shields.io/badge/Email-contacto@atria.tech-C7A96A?style=for-the-badge&logo=gmail&logoColor=0F2537" alt="Correo Electrónico" />
-  </a>
-  &nbsp;
-  <a href="https://itarensoftware.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-atria--tech.com-0F2537?style=for-the-badge&logo=render&logoColor=white" alt="Sitio Web" />
-  </a>
-
-</div>
-
-<br />
-
-| Canal | Detalle | Enlace Directo |
-| :--- | :--- | :--- |
-| 💬 **WhatsApp Directo** | Atención comercial y propuestas técnicas inmediatas | [Iniciar chat en WhatsApp](https://wa.me/527710000000?text=Hola%20Atria.Software,%20me%20gustar%C3%ADa%20cotizar%20un%20proyecto) |
-| 📞 **Llamada / Oficina** | Línea de atención empresarial | [+52 771 000 0000](tel:+527710000000) |
-| ✉️ **Correo Corporativo** | Envío de RFPs, especificaciones y contratos | [contacto@atria.tech](mailto:contacto@atria.tech) |
-| 🌐 **Portal y Cotizador** | Showroom interactivo y cotizador en vivo | [atria-tech.onrender.com](https://itarensoftware.onrender.com/) |
-| 📍 **Ubicaciones** | **CDMX**: Insurgentes Sur / Reforma &bull; **Hidalgo**: Pachuca | Reuniones presenciales o remotas |
-
----
-
-<div align="center">
-
-  <sub>&copy; 2026 **Atria.Software** &bull; Consultoría y Desarrollo Tecnológico Integral.</sub>
-
-</div>
+* Auditoría de arquitectura técnica
