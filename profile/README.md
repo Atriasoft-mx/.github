@@ -134,7 +134,7 @@ graph LR
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Iniciar_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/527710000000?text=Hola%20Atria.Software,%20me%20gustar%C3%ADa%20cotizar%20un%20proyecto)
 [![Teléfono](https://img.shields.io/badge/Llamar-%2B52_771_000_0000-0F2537?style=for-the-badge&logo=call&logoColor=C7A96A)](tel:+527710000000)
 [![Email](https://img.shields.io/badge/Email-contacto@atria.tech-C7A96A?style=for-the-badge&logo=gmail&logoColor=0F2537)](mailto:contacto@atria.tech)
-[![Website](https://img.shields.io/badge/Website-atria--tech.com-0F2537?style=for-the-badge&logo=googlechrome&logoColor=white)](https://itarensoftware.onrender.com/)
+[![Website](https://img.shields.io/badge/Website-atria--tech.com-0F2537?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atria-tech.onrender.com/)
 
 <br />
 
@@ -143,7 +143,7 @@ graph LR
 | 💬 **WhatsApp Directo** | Atención comercial y requerimientos técnicos | [Iniciar chat en WhatsApp](https://wa.me/527710000000?text=Hola%20Atria.Software,%20me%20gustar%C3%ADa%20cotizar%20un%20proyecto) |
 | 📞 **Llamada / Oficina** | Línea de atención empresarial | [+52 771 000 0000](tel:+527710000000) |
 | ✉️ **Correo Corporativo** | Envío de especificaciones y contratos | [contacto@atria.tech](mailto:contacto@atria.tech) |
-| 🌐 **Portal Web** | Cotizador en línea y casos de estudio | [atria-tech.onrender.com](https://itarensoftware.onrender.com/) |
+| 🌐 **Portal Web** | Cotizador en línea y casos de estudio | [atria-tech.onrender.com](https://atria-tech.onrender.com/) |
 | 📍 **Ubicaciones** | **Ciudad de México** • **Pachuca, Hidalgo** | Sesiones de trabajo presenciales o vía remota |
 
 ---
