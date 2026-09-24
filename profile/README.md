@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="180" alt="Logo Atria Software" src="https://github.com/user-attachments/assets/fb2c89e4-a679-4b2d-af77-480b6fb06990" />
+  <img width="180" alt="Logo Atria Software" src="https://github.com/user-attachments/assets/3904fbe0-791c-4406-b0b4-31c57ab36c83" />
 
   # Atria.Software
   ### Consultoría Tecnológica & Desarrollo de Software de Alto Impacto
