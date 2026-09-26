@@ -4,8 +4,6 @@
 
   ### Consultoría Tecnológica & Desarrollo de Software de Alto Impacto
   
-  **Diseñamos y escalamos soluciones digitales empresariales, plataformas transaccionales y aplicaciones móviles nativas.**
-
   <p align="center">
     <img src="https://img.shields.io/badge/Ubicación-CDMX%20%7C%20Pachuca%2C%20Hidalgo-0F2537?style=for-the-badge&logo=googlemaps&logoColor=C7A96A" alt="Ubicación" />
   </p>
