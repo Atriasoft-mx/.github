@@ -139,7 +139,7 @@ graph LR
 | :--- | :--- | :--- |
 | 💬 **WhatsApp Directo** | Atención comercial y requerimientos técnicos | [Iniciar chat en WhatsApp](https://wa.me/527710000000?text=Hola%20Atria.Software,%20me%20gustar%C3%ADa%20cotizar%20un%20proyecto) |
 | 📞 **Llamada / Oficina** | Línea de atención empresarial | [+52 771 000 0000](tel:+527710000000) |
-| ✉️ **Correo Corporativo** | Envío de especificaciones y contratos | [contacto@atria.tech](mailto:contacto@atria.tech) |
+| ✉️ **Correo Corporativo** | Envío de especificaciones y contratos | [contacto@atria.tech](mailto:ventas@atriasoftware.com.mx) |
 | 🌐 **Portal Web** | Cotizador en línea y casos de estudio | [atria-tech.onrender.com](https://atria-tech.onrender.com/) |
 | 📍 **Ubicaciones** | **Ciudad de México** • **Pachuca, Hidalgo** | Sesiones de trabajo presenciales o vía remota |
 
